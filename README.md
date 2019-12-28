@@ -1,6 +1,6 @@
 # stellar-blockchain-support-lib
-Stellar Blockchain Support Library. \ 
-A set of methods that could simplify a lot a java developers journey that uses Stellar Java SDK. \
+Stellar Blockchain Support Library. <br/> 
+A set of methods that could simplify a lot a java developers journey that uses Stellar Java SDK. <br/>
 __Note__ Channel Account utilization in order to handle scalability and performance. 
 
 
